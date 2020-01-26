@@ -24,5 +24,8 @@ else{
 
 display_movie($movies[$_GET['id']-1] );?>
     <?php  } 
-    echo "<br>";
+    echo "<br>";?>
+
+ 
+    <?php
  include("footer.php");?>
